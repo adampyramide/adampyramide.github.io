@@ -1,0 +1,49 @@
+/* GLOBAL */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 50px;
+    color: #444444;
+    font-family: roboto, sans-serif;
+
+    background-color: #f0f0f0;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+body.dark-mode {
+    color: #f0f0f0;
+    background-color: #1f1f1f;
+}
+
+/* Headers */
+.BlueText {
+    color: #005ac0;
+}
+
+/* ResumeEntry */
+.ResumeEntry {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.date {
+    text-align: right;
+}
+
+.description {
+    width: 70%;
+}
+
+.date {
+    width: 30%;
+    text-align: right;
+    font-weight: bold;
+}
+
+ul, .description p {
+    padding-left: 30px;
+}
