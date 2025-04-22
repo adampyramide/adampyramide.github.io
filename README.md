@@ -1,5 +1,6 @@
-# Adam El Zahiri Portfolio & Resume
-This repository stores the website for my portfolio and resume. All information about my specialties and experiences are explained in detail in my resume and portfolio.
+# Adam El Zahiri — Portfolio & Resume
 
-## Resume & Portfolio Website
-https://adampyramide.github.io/
+This repository contains the source code and content for my portfolio and resume website.  
+It provides detailed information about my specialties, experience, and skills in software development.
+
+View the website: [adampyramide.github.io](https://adampyramide.github.io/)
