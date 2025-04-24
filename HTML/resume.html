@@ -84,5 +84,15 @@
             <div class="date">Sept. 2019 – Jun. 2023</div>
         </div>
     </section>
+    
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const links = document.querySelectorAll("a[href^='http']");
+            links.forEach(link => {
+                link.setAttribute("target", "_blank");
+                link.setAttribute("rel", "noopener noreferrer");
+            });
+        });
+    </script>
 </body>
 </html>
