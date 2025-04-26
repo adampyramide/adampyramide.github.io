@@ -29,15 +29,15 @@ h2 {
 }
 
 .description {
-    width: 70%;
+    width: 85%;
 }
 
 .date {
-    width: 30%;
+    width: 10%;
     text-align: right;
     font-weight: bold;
 }
 
 ul, .education_description {
-    padding-left: 30px;
+    padding-left: 15px;
 }
