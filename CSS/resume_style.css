@@ -15,10 +15,14 @@ h1 {
 }
 
 h2 {
+    font-size: 20px;
     border-bottom: 2px solid #444444;
-    padding-bottom: 5px;
     margin-top: 15px;
     margin-bottom: 15px;
+}
+
+p {
+    font-size: 15px;
 }
 
 /* entry */
@@ -33,7 +37,7 @@ h2 {
 }
 
 .date {
-    width: 10%;
+    width: 30%;
     text-align: right;
     font-weight: bold;
 }
