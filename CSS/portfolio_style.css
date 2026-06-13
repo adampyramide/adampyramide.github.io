@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    padding-bottom: 20px;
+}
+
+body {
+    padding: 50px;
+    font-family: roboto, sans-serif;
+    color: #ffffff;
+    background-color: #1a1a1a;
+}
